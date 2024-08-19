@@ -21,6 +21,10 @@ This Flutter project is developed as part of the Polartern Internship Coding Cha
 ## Snapshots
 
 
+https://github.com/user-attachments/assets/cfe796d2-14a1-40db-ad3f-8ccfc3f857e5
+
+
+
 
 ## Installation and Setup
 
@@ -33,8 +37,8 @@ This Flutter project is developed as part of the Polartern Internship Coding Cha
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/polartern-flutter-assignment.git
-   cd polartern-flutter-assignment
+   git clone https://github.com/YasinzHyper/Polartern-Assignment.git
+   cd polartern-assignment
    ```
 
 2. **Install Dependencies**
