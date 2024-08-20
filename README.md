@@ -94,10 +94,6 @@ polartern_assignment/
 - **RSVP**: Slide the button at the bottom to RSVP for the event.
 - **Share**: Tap the share icon at the top right to capture the screen and share it using the available sharing options.
 
-## Screenshots
-
-Include any screenshots here to visually demonstrate the app's UI.
-
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the app.
