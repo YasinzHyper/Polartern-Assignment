@@ -34,11 +34,11 @@ https://github.com/user-attachments/assets/cfe796d2-14a1-40db-ad3f-8ccfc3f857e5
 
 ### Steps to Setup
 
-1. **Clone the Repository**
+1. **Clone the Repository and Navigate to the project directory**
 
    ```bash
    git clone https://github.com/YasinzHyper/Polartern-Assignment.git
-   cd polartern-assignment
+   cd polartern_assignment
    ```
 
 2. **Install Dependencies**
@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/cfe796d2-14a1-40db-ad3f-8ccfc3f857e5
 ## Project Structure
 
 ```plaintext
-polartern-flutter-assignment/
+polartern_assignment/
 │
 ├── assets/
 │   ├── images/
