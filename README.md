@@ -1,8 +1,8 @@
-# Polartern Assignment - Flutter Intern Coding Challenge
+# Polartern Assignment - Flutter
 
 ## Overview
 
-This Flutter project is developed as part of the Polartern Internship Coding Challenge. The application showcases a home screen with an event-themed layout, including a carousel slider, event details, RSVP functionality, and a feature to capture and share screenshots.
+This Flutter project is developed as part of the Polartern Coding Challenge. The application showcases a home screen with an event-themed layout, including a carousel slider, event details, RSVP functionality, and a feature to capture and share screenshots.
 
 ## Features
 
